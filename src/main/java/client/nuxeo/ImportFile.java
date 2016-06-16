@@ -13,6 +13,6 @@ public class ImportFile {
 	    // Create a document
 	    Document document = new Document("file", "File");
 	    document.set("dc:title", "new title");
-	    document = nuxeoClient.repository().createDocumentByPath("/default-domain/workspaces/java client", document);
+	    document = nuxeoClient.repository().createDocumentByPath("/default-domain/workspaces/java", document);
 	}
 }
