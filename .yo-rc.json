@@ -1,0 +1,10 @@
+{
+  "generator-nuxeo": {
+    "promptValues": {
+      "parent_package": "org.nuxeo.ecm.platform",
+      "parent_artifact": "client-parent",
+      "package": "client.nuxeo"
+    },
+    "multi": true
+  }
+}

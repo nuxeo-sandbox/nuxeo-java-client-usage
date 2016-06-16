@@ -1,0 +1,8 @@
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Manifest-Version: 1.0
+Bundle-Vendor: client.nuxeo
+Bundle-Version: 1.0.0
+Bundle-Name: client-core
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: client.nuxeo.client-core;singleton=true
